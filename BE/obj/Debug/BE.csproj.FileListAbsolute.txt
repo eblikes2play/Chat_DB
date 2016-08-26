@@ -1,0 +1,17 @@
+c:\users\tardised\documents\visual studio 2015\Projects\BE\BE\bin\Debug\BE.exe.config
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\BE.exe
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\BE.pdb
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\LunkerLibrary.dll
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\LunkerProtocol.dll
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\MySql.Data.dll
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\log4net.dll
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\LunkerLibrary.pdb
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\LunkerProtocol.pdb
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\MySql.Data.xml
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\log4net.xml
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\obj\Debug\BE.exe
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\obj\Debug\BE.pdb
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\StackExchange.Redis.dll
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\StackExchange.Redis.pdb
+C:\Users\tardised\Documents\Visual Studio 2015\Projects\BE\BE\bin\Debug\StackExchange.Redis.xml
